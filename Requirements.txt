@@ -1,0 +1,10 @@
+##  `requirements.txt`
+
+```txt
+opencv-python
+numpy
+face-recognition
+dlib
+pandas
+Pillow
+pygame
